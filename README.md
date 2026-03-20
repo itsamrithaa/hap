@@ -35,4 +35,4 @@ To run the visualizer locally on your machine
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[your-username]/hap-circuit-discovery-visualization.git
+   git clone [https://github.com/](https://github.com/)[your-username]/hap.git
