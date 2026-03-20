@@ -1,4 +1,4 @@
-# HAP Circuit Discovery Visualizer 🤖🔍
+# HAP Circuit Discovery Visualizer
 
 > Official Visualizer for: *"Discovering Transformer Circuits via a Hybrid Attribution and Pruning Framework"*
 
@@ -13,8 +13,6 @@ Interpreting Large Language Models (LLMs) requires identifying "circuits"—spar
 * **46% Faster:** Significantly reduces runtime compared to baseline edge pruning algorithms.
 * **Superior Faithfulness:** Preserves critical cooperative components (like S-inhibition heads in the IOI task) that standard attribution methods often prune at high sparsity.
 * **Scalable:** Effectively improves the scalability of mechanistic interpretability research to larger, industrial-sized models.
-
----
 
 ## Research & Credits
 This visualizer is based on the research paper:
@@ -31,8 +29,6 @@ This visualizer is based on the research paper:
 * **arXiv:** [2510.03282 [cs.LG]](https://doi.org/10.48550/arXiv.2510.03282)
 * **Venue:** Accepted to **NeurIPS 2025** Workshop on Mechanistic Interpretability and the **NeurIPS 2025** Workshop on New Perspectives in Graph Machine Learning.
 * **Original Research Code:** [Link to Paper Code Will Be Updated Here Soon]
-
----
 
 ## Getting Started
 To run the visualizer locally on your machine
